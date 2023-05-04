@@ -1,5 +1,5 @@
 import './App.css'
-import RockPaperScissors from './components/HomePage'
+import RockPaperScissors from './Components/HomePage'
 
 const choicesList = [
   {
